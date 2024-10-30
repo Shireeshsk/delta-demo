@@ -1,3 +1,3 @@
 # delta-demo
 this is a demo of git and github 
-i am shireesh kumar 
+I am shireesh kumar 
